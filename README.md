@@ -1,8 +1,8 @@
-# vueapp01
+# Ecommerce Turma 1
 
 > A Vue.js project
 
-## Build Setup
+## Para instalar
 
 ``` bash
 # install dependencies
